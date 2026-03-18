@@ -1,0 +1,4 @@
+paw
+*.exe
+*.o
+tmp.out

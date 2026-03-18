@@ -1,0 +1,4 @@
+cat
+*.exe
+*.o
+tmp.out

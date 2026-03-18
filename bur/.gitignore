@@ -1,0 +1,4 @@
+bur
+*.exe
+*.o
+tmp.out
